@@ -4,11 +4,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seriquynh" alt="seriquynh" /> </p>
 
-- 🔭 I’m currently focusing on Linux, MySQL, PHP (Laravel) and JavaScript (NodeJS & VueJS).
-- 🌱 I’m currently learning Cloud Computing with AWS and DevOps.
+- 💖 I love Linux (Ubuntu), MySQL, PHP (Laravel & Livewire).
+- 🔭 I'm learning Rust, Actix web and sqlx.
+- 🌱 I’m learning Cloud Computing and DevOps with AWS.
 - 👯 I create the [ContentiCode](https://github.com/confetticode) organization - "Building software with love".
 - 💬 Ask me about Web dev related stuff.
-- ⚡ Fun fact: I love JetBrains IDEs.
+- ⚡ Fun fact: I have ever hated JetBrains IDEs but can not code without them now. LOL
 - 📫 How to reach me? [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/seriquynh/) 
 , [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com)](mailto:seriquynh@gmail.com)
 
