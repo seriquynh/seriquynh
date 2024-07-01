@@ -4,9 +4,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seriquynh" alt="seriquynh" /> </p>
 
-- 💖 I love Linux (Ubuntu), MySQL, PHP (Laravel & Livewire).
+- 💖 I love Linux (Ubuntu), Nginx, MySQL and PHP (Laravel).
+- 😅 I am an amateur JavaScript coder.
 - 🔭 I'm learning Rust, Actix web and sqlx.
-- 🌱 I’m learning Cloud Computing and DevOps with AWS.
+- 😁 I just know a bit about Cloud Computing and DevOps with AWS.
 - 👯 I create the [ContentiCode](https://github.com/confetticode) organization - "Building software with love".
 - 💬 Ask me about Web dev related stuff.
 - ⚡ Fun fact: I have ever hated JetBrains IDEs but can not code without them now. LOL
@@ -15,6 +16,3 @@
 
 ## Some Statistics About Me
 ![Abhinav's github stats](https://github-readme-stats.vercel.app/api?username=seriquynh&include_all_commits=true&count_private=true&show_owner=true&show_icons=true&theme=merko)<br>
-
-----
-Credits: [seriquynh](https://github.com/seriquynh)
